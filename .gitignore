@@ -3,3 +3,5 @@ __pycache__
 random/
 venv/
 *.pyc
+*.env
+Flask-Script
