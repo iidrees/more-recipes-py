@@ -4,6 +4,7 @@ from flask_script import Manager
 from flask_migrate import Migrate, MigrateCommand
 
 from main import app, db
+# import worker
 
 # app.config.from_object(os.environ["APP_SETTINGS"])
 
